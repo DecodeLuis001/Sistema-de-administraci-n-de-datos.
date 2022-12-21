@@ -1,0 +1,14 @@
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\obj\Debug\netstandard2.0\CapaDominio.csprojAssemblyReference.cache
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\obj\Debug\netstandard2.0\CapaDominio.csproj.CoreCompileInputs.cache
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\obj\Debug\netstandard2.0\CapaDominio.AssemblyInfoInputs.cache
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\obj\Debug\netstandard2.0\CapaDominio.AssemblyInfo.cs
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\bin\Debug\netstandard2.0\CapaDominio.deps.json
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\bin\Debug\netstandard2.0\CapaDominio.dll
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\bin\Debug\netstandard2.0\CapaDominio.pdb
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\bin\Debug\netstandard2.0\CapaSoporte.dll
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\bin\Debug\netstandard2.0\CapaSoporte.pdb
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\obj\Debug\netstandard2.0\CapaDominio.csproj.CopyComplete
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\obj\Debug\netstandard2.0\CapaDominio.dll
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaDominio\obj\Debug\netstandard2.0\CapaDominio.pdb
