@@ -1,0 +1,9 @@
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaSoporte\bin\Debug\netstandard2.0\CapaSoporte.deps.json
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaSoporte\bin\Debug\netstandard2.0\CapaSoporte.dll
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaSoporte\bin\Debug\netstandard2.0\CapaSoporte.pdb
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaSoporte\obj\Debug\netstandard2.0\CapaSoporte.csproj.CoreCompileInputs.cache
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaSoporte\obj\Debug\netstandard2.0\CapaSoporte.AssemblyInfoInputs.cache
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaSoporte\obj\Debug\netstandard2.0\CapaSoporte.AssemblyInfo.cs
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaSoporte\obj\Debug\netstandard2.0\CapaSoporte.dll
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaSoporte\obj\Debug\netstandard2.0\CapaSoporte.pdb
+C:\Users\luisn\OneDrive\Documentos\Arquitectura\CapaSoporte\obj\Debug\netstandard2.0\CapaSoporte.csprojAssemblyReference.cache
